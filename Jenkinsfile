@@ -7,6 +7,7 @@ pipeline {
                 echo "Hello world!"
                 echo "Doing more cool stuff"
                 echo "Again..."
+                echo "Again..."
             }
         }
     }
